@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @5pyrx
 - 👀 I’m interested in front-end web and mobile app development
-- 🌱 I’m currently learning swift & improving my reactjs
-- 🧠 I'm intermediate level in JS/HTML/CSS and junior in Reactjs
+- 🌱 I’m currently updating my react knowledge from 16 > 18
+- 🧠 I'm intermediate level in JS/HTML/CSS & Reactjs
 - 💞️ I’m looking to collaborate on any projects I can to gain xp
 
 <!---
