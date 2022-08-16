@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5pyrx
+- 👋 Hi,
 - 👀 I’m interested in front-end web and mobile app development
 - 🌱 I’m currently updating my react knowledge from 16 > 18
 - 🧠 I'm intermediate level in JS/HTML/CSS & Reactjs
