@@ -1,3 +1,3 @@
 - 👋 Hi,
 - 👀 I’m a front-end web developer with experience as both a scrum master & product manager
-- 🧠 I’m currently learning Typescript & Gatsby
+- 🧠 I’m currently working on improving my React.js knowledge and learning meta frameworks such as Next & Gatsby
