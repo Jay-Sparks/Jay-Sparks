@@ -1,5 +1,5 @@
 - 👋 Hi,
 
-- 👀 I’m a digital collaborator with experience as both a scrum master & product manager
+- 👀 I’m an experienced digital collaborator with professional expertise in scrum mastery & product management.
 
-- 🧠 I’m currently working on improving my React.js knowledge
+- 🧠 I’m have studied Javascript & React.js for c. 4yrs and am now working on improving my webGL knowledge
