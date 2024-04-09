@@ -4,6 +4,4 @@
 
 - 📚 Currently studying TypeScript & data visualisation in 3D web experiences.
 
-- 🔎 Take a look at some of my projects
-
-- https://jay-sparks.netlify.app/
+- 🔎 Take a look at some of my projects >> https://jay-sparks.netlify.app/
